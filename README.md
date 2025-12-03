@@ -6,7 +6,6 @@ Each project focuses on a different concept, UI pattern, or React feature such a
 The goal of this repository is to practice, experiment, and improve my React skills with hands-on mini projects.
 
 ---
-
 ## 🚀 What’s Inside?
 
 - A growing list of independent mini React projects  
