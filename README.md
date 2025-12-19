@@ -15,4 +15,3 @@ The goal of this repository is to practice, experiment, and improve my React ski
 - No dependency on each other – every project runs independently
 
 
-
